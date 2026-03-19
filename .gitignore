@@ -1,0 +1,81 @@
+.gradle
+/local.properties
+/.idea/*
+/build
+/captures
+.externalNativeBuild
+.cxx
+.idea/misc.xml
+
+# =========================
+# Android / Gradle
+# =========================
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Build directories
+**/build/
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Local Gradle config
+.gradle/
+gradle-app.setting
+local.properties
+
+# Logs
+*.log
+
+# =========================
+# Android Studio / IntelliJ
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android Studio captures
+captures/
+
+# Navigation editor temp files
+.navigation/
+
+# RenderScript / misc
+.renderScriptCache/
+
+# =========================
+# Kotlin / Java
+# =========================
+*.kotlin_module
+
+# =========================
+# NDK / CMake
+# =========================
+obj/
+*.so
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Firebase / Google Services
+# =========================
+# **/google-services.json
+
+# =========================
+# Secrets
+# =========================
+# **/secrets.properties
+# **/*.keystore
+# **/*.jks

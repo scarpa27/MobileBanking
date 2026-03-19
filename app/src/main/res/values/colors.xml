@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#F5F6F8</color>
+    <color name="purple_300">#E9EDF1</color>
+    <color name="purple_500">#4C6E91</color>
+    <color name="purple_700">#3B556F</color>
+    <color name="teal_200">#7AA69A</color>
+    <color name="teal_700">#5D8B80</color>
+    <color name="tetra_green">#78CC4C</color>
+    <color name="tetra_blue">#4ca3cc</color>
+    <color name="tetra_pink">#cc4c79</color>
+    <color name="tetra_brown">#cc774c</color>
+    <color name="white_alpha">#3bffffff</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_background">#F5F6F8</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="text_primary">#1C1E21</color>
+    <color name="text_secondary">#5F6B76</color>
+    <color name="tx_incoming">#2E7D32</color>
+    <color name="tx_outgoing">#C62828</color>
+</resources>
